@@ -1,9 +1,8 @@
 console.log('Hello world')
 
-const userAge = 35
-
-if (userAge >= 18) {
-    console.log('Вы чел')
+const age = 20
+if (age >= 18) {
+    console.log('вы совершенен')
 } else {
-    console.log('Вы не чел')
+    console.log('вы чилдрун')
 }
